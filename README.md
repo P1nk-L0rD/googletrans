@@ -1,5 +1,7 @@
 # googletrans-py
 
+## Fixed version that works on python 3.9+
+
 This is a fork of the [googletrans](https://github.com/ssut/py-googletrans) which makes the original package compatible with the latest versions of `httpx`, `httpcore` and their dependencies. This compatibility makes it possible to use `httpx`'s newer versions than `0.13.3`.
 
 The base is taken from the [feature/rpc](https://github.com/ssut/py-googletrans/tree/feature/rpc) branch of googletrans which was the last version, including pre-releases.
