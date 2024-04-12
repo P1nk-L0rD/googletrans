@@ -14,20 +14,12 @@ As the original project ended with version `4.0.0rc1` (pre-release), this fork's
 
 ## Installation
 
-### PyPI
-
-This project is available on [PyPI](https://pypi.org/project/googletrans-py) and can be installed using pip.
-
-```shell
-pip install googletrans-py
-```
-
 ### Repository
 
-You can also install the project directly from this repository.
+You can install the project directly from this repository.
 
 ```shell
-pip install git+https://github.com/StarkBotsIndustries/googletrans.git
+pip install git+https://github.com/P1nk-L0rD/googletrans.git
 ```
 
 ## Credits
